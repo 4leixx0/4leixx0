@@ -15,7 +15,7 @@ Me chamo Kaique Aleixo, tenho 19 anos e moro em Jundiaí - SP. Atualmente, curso
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:kaiquealeixo23@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/kaique-aleixo-7b446b351/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/kaiquealeixo/)
 
 
 <h3 align="left">My Stack ~</h3>
